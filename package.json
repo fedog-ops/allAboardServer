@@ -2,7 +2,7 @@
   "name": "all-aboard-server",
   "version": "1.0.0",
   "description": "",
-  "main": "listener.js",
+  "main": "messagesController.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
