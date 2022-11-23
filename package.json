@@ -1,0 +1,19 @@
+{
+  "name": "all-aboard-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedog-ops/allAboardServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedog-ops/allAboardServer/issues"
+  },
+  "homepage": "https://github.com/fedog-ops/allAboardServer#readme"
+}

@@ -1,0 +1,75 @@
+{
+  "roomDB": [
+    {
+      "roomName": "newRoom",
+      "endDate": "newRoom.endDate",
+      "members": [],
+      "messageList": []
+    },
+    {
+      "roomName": "Be There or Be Square",
+      "endDate": "2021-01-18T00:00:00.000Z",
+      "members": [],
+      "messageList": [
+        { "message": "16 has joined the chat", "bot": true },
+        { "message": "10 has joined the chat", "bot": true },
+        { "message": "bananaMan has joined the chat", "bot": true },
+        {
+          "message": "i'm banana",
+          "username": "bananaMan",
+          "my": false,
+          "liked": false,
+          "bot": false,
+          "time": "14:50 pm"
+        },
+        { "message": "pencilAccount has joined the chat", "bot": true },
+        { "message": "bananaMan has joined the chat", "bot": true },
+        { "message": "pencilAccount has joined the chat", "bot": true },
+        {
+          "message": "Hello",
+          "username": "pencilAccount",
+          "my": false,
+          "liked": false,
+          "bot": false,
+          "time": "14:57 pm"
+        },
+        {
+          "message": "Hello pencil",
+          "username": "pencilAccount",
+          "my": false,
+          "liked": false,
+          "bot": false,
+          "time": "14:57 pm"
+        },
+        {
+          "message": "hello pencil",
+          "username": "bananaMan",
+          "my": false,
+          "liked": false,
+          "bot": false,
+          "time": "14:59 pm"
+        },
+        {
+          "message": "hi",
+          "username": "pencilAccount",
+          "my": false,
+          "liked": false,
+          "bot": false,
+          "time": "14:59 pm"
+        }
+      ]
+    },
+    {
+      "roomName": "",
+      "endDate": "2021-01-18T00:00:00.000Z",
+      "members": [],
+      "messageList": []
+    },
+    {
+      "roomName": "Felix is testing game",
+      "endDate": "2021-01-18T00:00:00.000Z",
+      "members": ["pencilAccount"],
+      "messageList": []
+    }
+  ]
+}
